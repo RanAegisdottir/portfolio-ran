@@ -146,13 +146,13 @@ export const Skill_data = [
   export const Backend_skill = [
     {
       skill_name: "Audacity",
-      Image: "./AUDACITY.png",
+      Image: "./audacity.png",
       width: 70,
       height: 70,
     },
     {
       skill_name: "Jupyter notebook",
-      Image: "./JUPYTER.png",
+      Image: "./jupyter.png",
       width: 120,
       height: 120,
     },
@@ -228,7 +228,7 @@ export const Skill_data = [
   export const Other_skill = [
     {
       skill_name: "3D coat",
-      Image: "./3dcoat.png",
+      Image: "./3Dcoat.png",
       width: 80,
       height: 80,
     },

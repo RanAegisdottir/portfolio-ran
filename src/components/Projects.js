@@ -97,7 +97,7 @@ export const Projects = () => {
     {
       title: "Weapon Design",
       description: "Made using Photoshop",
-      imgUrl: "./Artstuff/untitled design (8).png",
+      imgUrl: "./Artstuff/Untitled design (8).png",
     },
     {
     title: "Pixel armor",
@@ -122,7 +122,7 @@ export const Projects = () => {
     {
     title: "3D Weapon Design",
     description: "Made using Blender and Photoshop",
-    imgUrl: "./Artstuff/untitled design.gif",
+    imgUrl: "./Artstuff/Untitled design.gif",
     },
     {
     title: "Self portrait 2021",
@@ -163,7 +163,7 @@ export const Projects = () => {
     {
     title: "3D adventure backpack",
     description: "Made using Blender and Photoshop",
-    imgUrl: "./Artstuff/untitled design (2).gif",
+    imgUrl: "./Artstuff/Untitled design (2).gif",
     },
     {
     title: "Weapon Design",
@@ -211,7 +211,7 @@ export const Projects = () => {
     {
       title: "Swords & Sparks",
       description: "Personal Project - Platformer Unity",
-      imgUrl: "./Artstuff/Swordsandsparks.png",
+      imgUrl: "./Artstuff/swordsandsparks.png",
       link: "https://minininjaswag.itch.io/swords-sparks"
     },
     {
