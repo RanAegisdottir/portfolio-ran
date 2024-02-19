@@ -7,7 +7,6 @@ import {
     Skill_data,
   } from "../constants/index";
 import { SkilldataProvider } from "../SkilldataProvider";
-import dungeonimg from '../assets/img/dungeon.jpg';
 
 export const Skills = () => {
   return (
