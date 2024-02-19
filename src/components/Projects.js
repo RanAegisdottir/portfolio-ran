@@ -9,77 +9,77 @@ export const Projects = () => {
     {
       title: "Tvíund - Logo",
       description: "student association in Computer Science RU",
-      imgUrl: "Artstuff/tviund.png",
+      imgUrl: "./Artstuff/tviund.png",
     },
     {
       title: "Sys/tur/ - Logo",
       description: "women's association in computer science RU",
-      imgUrl: "Artstuff/systur.png",
+      imgUrl: "./Artstuff/systur.png",
     },
     {
       title: "Hoodler - Logo",
       description: "Personal Project - Business startup",
-      imgUrl: "Artstuff/hoodler-logo.png",
+      imgUrl: "./Artstuff/hoodler-logo.png",
     },
     {
         title: "Ad for science trip",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/CCP.png",
+        imgUrl: "./Artstuff/CCP.png",
       },
       {
         title: "Ad for linux course",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/Instagram Post 1080x1080 px (5).png",
+        imgUrl: "./Artstuff/Instagram Post 1080x1080 px (5).png",
       },
       {
         title: "Ad for Minecraft server",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/MINECRAFT AD.png",
+        imgUrl: "./Artstuff/MINECRAFT AD.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker1.png",
+        imgUrl: "./Artstuff/sticker1.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker2.png",
+        imgUrl: "./Artstuff/sticker2.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker3.png",
+        imgUrl: "./Artstuff/sticker3.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker4.png",
+        imgUrl: "./Artstuff/sticker4.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker5.png",
+        imgUrl: "./Artstuff/sticker5.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker6.png",
+        imgUrl: "./Artstuff/sticker6.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker7.png",
+        imgUrl: "./Artstuff/sticker7.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker8.png",
+        imgUrl: "./Artstuff/sticker8.png",
       },
       {
         title: "Sticker design for committee",
         description: "Made using photoshop",
-        imgUrl: "Artstuff/sticker9.png",
+        imgUrl: "./Artstuff/sticker9.png",
       },
   ];
 
@@ -87,58 +87,58 @@ export const Projects = () => {
     {
       title: "Warhammer commision",
       description: "Made using photoshop",
-      imgUrl: "Artstuff/bjarki commision - warhammer 40k.png",
+      imgUrl: "./Artstuff/bjarki commision - warhammer 40k.png",
     },
     {
       title: "3D character - Violet",
       description: "Made using Blender and Photoshop",
-      imgUrl: "Artstuff/animation violet magic.gif",
+      imgUrl: "./Artstuff/animation violet magic.gif",
     },
     {
       title: "Weapon Design",
       description: "Made using Photoshop",
-      imgUrl: "Artstuff/untitled design (8).png",
+      imgUrl: "./Artstuff/untitled design (8).png",
     },
     {
     title: "Pixel armor",
     description: "Made using Asesprite",
-    imgUrl: "Artstuff/armor.png",
+    imgUrl: "./Artstuff/armor.png",
     },
     {
     title: "Weapon Design",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/axe ref (1).png",
+    imgUrl: "./Artstuff/axe ref (1).png",
     },
     {
     title: "D&D character - Norm Goldbeard",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/dvergur d&d png.png",
+    imgUrl: "./Artstuff/dvergur d&d png.png",
     },
     {
     title: "Character illustration",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/short hair me.png",
+    imgUrl: "./Artstuff/short hair me.png",
     },
     {
     title: "3D Weapon Design",
     description: "Made using Blender and Photoshop",
-    imgUrl: "Artstuff/untitled design.gif",
+    imgUrl: "./Artstuff/untitled design.gif",
     },
     {
     title: "Self portrait 2021",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/self portrait 2021.png",
+    imgUrl: "./Artstuff/self portrait 2021.png",
     },
     {
     title: "Head illustration",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/green woman.png",
+    imgUrl: "./Artstuff/green woman.png",
     },
 
     {
     title: "3D head",
     description: "Made using Blender",
-    imgUrl: "Artstuff/2022-11-30-14-23-41.gif",
+    imgUrl: "./Artstuff/2022-11-30-14-23-41.gif",
     },
     // {
     // title: "Oil painting Flowers",
@@ -148,47 +148,47 @@ export const Projects = () => {
     {
     title: "Oil painting Flowers",
     description: "2021",
-    imgUrl: "Artstuff/oil paint 2.png",
+    imgUrl: "./Artstuff/oil paint 2.png",
     },
     {
     title: "Oil painting Flowers",
     description: "2022",
-    imgUrl: "Artstuff/oil paint 3.png",
+    imgUrl: "./Artstuff/oil paint 3.png",
     },
     {
     title: "Oil painting Head",
     description: "2022",
-    imgUrl: "Artstuff/oil paint 4.png",
+    imgUrl: "./Artstuff/oil paint 4.png",
     },
     {
     title: "3D adventure backpack",
     description: "Made using Blender and Photoshop",
-    imgUrl: "Artstuff/untitled design (2).gif",
+    imgUrl: "./Artstuff/untitled design (2).gif",
     },
     {
     title: "Weapon Design",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/tree sword design.png",
+    imgUrl: "./Artstuff/tree sword design.png",
     },
     {
     title: "Character illustration",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/violet outfit.png",
+    imgUrl: "./Artstuff/violet outfit.png",
     },
     {
     title: "Character Design",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/violet character design.png",
+    imgUrl: "./Artstuff/violet character design.png",
     },
     {
     title: "Character Design",
     description: "Made using Photoshop",
-    imgUrl: "Artstuff/zelena sketch.png",
+    imgUrl: "./Artstuff/zelena sketch.png",
     },
     {
     title: "Weapon Design",
     description: "Made using Asesprite",
-    imgUrl: "Artstuff/sword design tree.png",
+    imgUrl: "./Artstuff/sword design tree.png",
     },
     // {
     // title: "Katara illustration",
@@ -203,7 +203,7 @@ export const Projects = () => {
     {
     title: "3D illustration",
     description: "Made using Blender",
-    imgUrl: "Artstuff/0001-0040.gif",
+    imgUrl: "./Artstuff/0001-0040.gif",
     },  
   ];
 
@@ -211,19 +211,19 @@ export const Projects = () => {
     {
       title: "Swords & Sparks",
       description: "Personal Project - Platformer Unity",
-      imgUrl: "Artstuff/Swordsandsparks.png",
+      imgUrl: "./Artstuff/Swordsandsparks.png",
       link: "https://minininjaswag.itch.io/swords-sparks"
     },
     {
       title: "Ribbit Runner",
       description: "Group School Project - Endless Runner Unity",
-      imgUrl: "Artstuff/froggame.png",
+      imgUrl: "./Artstuff/froggame.png",
       link: "https://raggiolafs00.itch.io/ribbitrunner"
     },
     {
       title: "Dreamy Platformer",
       description: "Solo School project - Platformer Unity",
-      imgUrl: "Artstuff/dreamygame.png",
+      imgUrl: "./Artstuff/dreamygame.png",
       link: "https://minininjaswag.itch.io/dreamy-game"
     },
   ];
